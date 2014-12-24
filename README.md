@@ -1,22 +1,22 @@
 ### Teaching Poker
 
 1. Explain that you need five cards to make a hand - all five cards count towards your hand.
-1. Introduce a *high card hand*: one where not all five cards are the same suit, and not all five cards are in consecutive order, and there are no cards with the same index (K-K, 10-10-10-10, 3-3-3, etc.) -- this is the worst ranking hand.
-1. Let's call a *high card hand* = 0; and *one pair* = 1
+1. Introduce a **high card hand**: one where not all five cards are the same suit, and not all five cards are in consecutive order, and there are no cards with the same index (K-K, 10-10-10-10, 3-3-3, etc.) -- this is the worst ranking hand.
+1. Let's call a **high card hand** = 0; and **one pair** = 1
 1. Compare several 0,1 hands (i.e. deal two sets of five random cards: who wins?). Include kickers and second kickers.
-1. Introduce *two pairs* = 2, continue comparing
-1. Introduce *three of a kind* = 3, continue comparing
+1. Introduce **two pairs** = 2, continue comparing
+1. Introduce **three of a kind** = 3, continue comparing
 1. Make sure to really test understanding and constantly repeat the hands, their ranking, their kickers and which beats which. Embed the verbal as well as the visual and conceptual.
-1. Introduce *straight* and *flush*, ensuring that it's clear you need all five cards to make the hand.
+1. Introduce **straight** and **flush**, ensuring that it's clear you need all five cards to make the hand.
 1. Introduce community cards: 'the board'.
 1. Introduce Texas hole cards: 'the pocket'
 1. Demonstrate different 'my best five cards' from the hole cards and the board. 
 1. Explain that you play the best, even if you don't recognise which are the best.
-1. Deal out nine players, hole cards face up. **No burn cards, or dealer buttons or bets at this stage.**
+1. Deal out nine players, hole cards face up. *No burn cards, or dealer buttons or bets at this stage.*
 1. Deal out five community cards.
-1. Ask which player wins, talk it through. **If a new hand rank appears, explain it.**
+1. Ask which player wins, talk it through. *If a new hand rank appears, explain it.*
 1. Deal five new community cards, repeat.
-1. At some point, explain that a board with no pair cannot support *full house* or *four of a kind*.
+1. At some point, explain that a board with no pair cannot support **full house** or **four of a kind**.
 1. Provide tokens to indicate which hand wins, so that certain hole cards collect more tokens than others over time.
 1. Repeat this process a lot, explaining how to quickly identify the winning hand (i.e. start at the nuts).
 1. Discuss: what kind of hole cards do better than others?
