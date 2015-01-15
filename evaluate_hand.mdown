@@ -12,12 +12,12 @@ This is the _Chen Formula_.
 
 ### Pairs
 
-AA = 20 (obviously)
-KK = 16
-QQ = 14
-etc.
-55 = 6
-44,33,22 = 5
+- AA = 20 (obviously)
+- KK = 16
+- QQ = 14
+- ...
+- 55 = 6
+- 44,33,22 = 5
 
 ### Suited
 
