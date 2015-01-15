@@ -4,11 +4,11 @@ This is the _Chen Formula_.
 
 ### Highest Card
 
-A = 10 
-K = 8
-Q = 7
-J = 6
-10-2 = half of face value
+- A = 10 
+- K = 8
+- Q = 7
+- J = 6
+- 10-2 = half of face value
 
 ### Pairs
 
