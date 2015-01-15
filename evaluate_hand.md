@@ -1,0 +1,35 @@
+### How Strong is My Hand?
+
+This is the _Chen Formula_.
+
+## Highest Card
+
+A = 10 
+K = 8
+Q = 7
+J = 6
+10-2 = half of face value
+
+## Pairs
+
+AA = 20 (obviously)
+KK = 16
+QQ = 14
+etc.
+55 = 6
+44,33,22 = 5
+
+## Suited
+
+Add 2
+
+## Closeness
+
+SUBTRACT:
+1 point  for 1 gap - A-Q, J-9 (ADD 1 point instead, if highest card is less than Q)
+2 points for 2 gap - J--8, A--J
+4 points for 3 gap - J---7, 7---3
+5 points for bigger gap, including A2 A3 A4
+
+ADD:
+1 point  for 0 gap AND highest card is lower than Q
